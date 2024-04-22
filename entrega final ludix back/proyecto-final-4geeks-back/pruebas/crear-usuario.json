@@ -1,0 +1,10 @@
+{
+  "name": "John Doe",
+  "email": "johndoe@example.com",
+  "password": "password",
+  "age": 25,
+  "gender": 1,
+  "region": "New York",
+  "member_since": "2022-01-01",
+  "location": "123 Main St"
+}

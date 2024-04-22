@@ -1,0 +1,10 @@
+{
+  "name": "Dieg Cortes",
+  "email": "johndoe@example.com",
+  "password": "12345",
+  "age": 29,
+  "gender": 1,
+  "region": "North America",
+  "location": "TT York",
+  "member_since": "2022-01-01"
+}
